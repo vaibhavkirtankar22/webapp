@@ -22,6 +22,7 @@
 </head>
 
 <body>
+    <img src="https://10619-2.s.cdn12.com/rests/original/106_510552396.jpg" width="300" height="400">
 
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
